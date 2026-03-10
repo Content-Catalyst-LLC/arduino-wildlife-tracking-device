@@ -1,0 +1,10 @@
+Component,Example,Qty,Notes
+Arduino Pro Mini,Low-power 5V/3.3V board,1,Preferred for low-power field deployments
+GPS Module,NEO-6M,1,Common low-cost GPS module
+MicroSD Module,Standard SPI SD breakout,1,For local data logging
+MicroSD Card,8GB or larger,1,For telemetry storage
+LiPo Battery,Rechargeable battery pack,1,Capacity depends on deployment duration
+Solar Charging Module,Small LiPo solar charger,1,Optional
+Voltage Regulator,Low-quiescent regulator,1,Optional depending on board and battery design
+Waterproof Enclosure,Compact field housing,1,Required for outdoor use
+Jumper Wires,Male/Female,10,As needed
